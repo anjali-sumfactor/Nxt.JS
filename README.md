@@ -4,4 +4,5 @@
 3.Static site generation<br>
 4.Incremental side generation<br>
 5.Server side rendering<br>
-6.Client side rendering
+6.Client side rendering<br>
+7.Implement goggle font
