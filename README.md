@@ -25,5 +25,5 @@ export async function getStaticProps(context) {<br>
 <br>
 ii)With external data<br>
 6.Implemented getStaticPaths<br>
-7.Fallback<br>
+
 
