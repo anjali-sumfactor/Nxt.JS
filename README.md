@@ -25,5 +25,11 @@ export async function getStaticProps(context) {<br>
 <br>
 ii)With external data<br>
 6.Implemented getStaticPaths<br>
+7.Fallback<br>
+8.Coffee store page styling done<br>
+9.Foursquare places API<br>
+10.Fetch API<br>
+11.Async await<br>
+12.Environmental variable<br>
 
 
